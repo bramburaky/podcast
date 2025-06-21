@@ -1,0 +1,16 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<rss version="2.0">
+  <channel>
+    <title>Podcast</title>
+    <link>https://github.com/bramburaky/podcast/</link>
+    <description>Podcast privato su GitHub Pages</description>
+    <language>it-it</language>
+    <item>
+      <title>Cape Verdean Anthropology_ Identity, Migration, and Insularity</title>
+      <enclosure url="https://tuonome.github.io/podcast-privato/episodio1.mp3" type="audio/mpeg" length="12345678" />
+      <guid>1</guid>
+      <pubDate>Tue, 18 Jun 2024 12:00:00 GMT</pubDate>
+      <description>Descrizione dell'episodio</description>
+    </item>
+  </channel>
+</rss>
